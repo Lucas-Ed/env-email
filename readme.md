@@ -1,4 +1,4 @@
-# Envio de E-mail com Bun + Resend
+# Envio de E-mail com Bun + Resend( Nodejs && Python)
 
 ![](img/foto.png)
 
